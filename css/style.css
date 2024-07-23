@@ -99,6 +99,22 @@
 
   }
 
+  #actions {
+    display: flex;
+    align-items: center; /* Vertically centers child elements */
+    gap: 10px;
+}
+
+#destinations {
+  display: flex;
+  align-items: center; /* Vertically centers child elements */
+  gap: 15px;
+}
+
+
+
+
+
   
 
 
